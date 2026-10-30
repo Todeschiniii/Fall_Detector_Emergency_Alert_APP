@@ -21,7 +21,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.ActivityCompat
 import kotlin.math.sqrt
 
-/**
+/**A
  * Tela de monitoramento. Liga e desliga o servico de deteccao, pede as
  * permissoes e mostra as leituras do acelerometro em tempo real.
  */
